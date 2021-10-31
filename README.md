@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sm00thieDuc
 - 👀 I’m interested in electrical engineering, prototyping, Agile Frameworks and learning new topics in Tech.
-- 🌱 I’m currently learning C++ and CSS.
+- 🌱 I’m currently learning Matlab, C++, Java and CSS.
 - 💞️ I’m looking to collaborate on beginner friendly projects.
 - 📫 How to reach me ... PN me here.
 
